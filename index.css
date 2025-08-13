@@ -1,0 +1,25 @@
+.welcome {
+  background-image: url(d7956561-6756-45ab-82e7-0d557d78dbbb.jpg);
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100vh; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.5); 
+}
+
+.social-links {
+    margin-top: 15px;
+    font-size: 18px;
+}
+.social-links a {
+    color: #0077cc;
+    text-decoration: none;
+    margin: 0 5px;
+}
+.social-links a:hover {
+    text-decoration: underline;
+}
